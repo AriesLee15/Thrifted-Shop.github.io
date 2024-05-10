@@ -1,0 +1,85 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background:#FFDEAD;
+}
+
+header {
+    background-color: #F4A460;
+    color: grey;
+    padding: 5px 0;
+    text-align: center;
+    height: 100px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li h1 {
+    color: #fff;
+    text-decoration: none;
+    margin-top: -7%;
+    margin-bottom: 5%;
+}
+h1{
+    font-size: 200%;
+    font-family:cursive;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+    border-radius: 100px;
+    margin-right: 85%;
+    margin-top: -2%;
+}
+
+main {
+    padding: 50px 20px;
+}
+
+#about {
+    text-align: center;
+}
+
+.TNF {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 200px;
+    background-color: #F4A460;
+}
+
+.letter {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #F4A460;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.shop {
+    width: 150px;
+    height: auto;
+    border-radius: 150px;
+    background-color: white;
+}
+
+.cart{
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+    margin-left: 85%;
+    background-color: #8B4513;
+    margin-top: -7%;
+    margin-bottom: 5%;
+}
